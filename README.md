@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @S-P-Physics
+- 🌱 I’m currently learning Python
+  
+
+<!---
+S-P-Physics/S-P-Physics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
